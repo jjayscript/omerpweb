@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="classes">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../omerp-transmit/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../omerp-transmit/WEB-INF/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../omerp-transmit/WEB-INF/lib" recursive="false" />
+  </library>
+</component>
